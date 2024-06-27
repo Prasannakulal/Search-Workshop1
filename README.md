@@ -13,10 +13,6 @@ and postgres for storing and retrieving application data.
 - Docker
 - Docker Compose
 
-##### GitHub account
-- Create an account on [GitHub](https://github.com/join) (if you don't already have one)
-- Fork [this](https://github.com/UniCourt/Search-Workshop1) repository and then clone it to your machine
-- You can refer [this](https://docs.github.com/en/get-started/quickstart/fork-a-repo) guide to understand how to fork and clone
 
 
 ##### Docker
